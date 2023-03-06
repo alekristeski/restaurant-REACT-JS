@@ -1,0 +1,18 @@
+@use "/src/css/variables" as *;
+.wrapper_type {
+  text-align: center;
+}
+.button_type {
+  border: none;
+  color: #ffffff;
+  padding: 14px 28px;
+  border-radius: 4px;
+  background-color: $btn-orange;
+  margin: 0.4em;
+}
+
+.button_type:hover {
+  cursor: pointer;
+  color: $white;
+  background-color: $btn-orange-hover;
+}

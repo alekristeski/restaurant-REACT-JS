@@ -1,0 +1,5 @@
+@use "/src/css/variables" as *;
+.border_bottom {
+  border-bottom: 2px solid $drop-shadow-whitef5;
+  padding-top: 2rem;
+}

@@ -1,0 +1,7 @@
+@use "/src/css/variables" as *;
+.footer_para {
+  text-align: center;
+  color: $text-primary;
+  font-weight: $font-weight-normal;
+  padding: 0.4em;
+}

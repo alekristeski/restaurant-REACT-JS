@@ -1,0 +1,11 @@
+@use "/src/css/variables" as *;
+.button {
+  background-color: $btn-green;
+  width: 100%;
+  border: none;
+  color: $white;
+  padding: $btn-size;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-top: 6px;
+}

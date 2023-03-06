@@ -1,0 +1,16 @@
+.wrapper {
+  width: 100%;
+  max-width: 80em;
+  margin: 0 auto;
+  article {
+    max-width: none;
+    height: 21em;
+    margin-bottom: 2em;
+    img {
+      height: 180px;
+    }
+    header {
+      height: 20px;
+    }
+  }
+}

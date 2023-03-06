@@ -1,0 +1,6 @@
+@use "/src/css/variables" as *;
+.title {
+  text-transform: uppercase;
+  text-align: center;
+  color: $text-primary;
+}
